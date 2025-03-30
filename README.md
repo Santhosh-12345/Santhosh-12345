@@ -1,10 +1,11 @@
 # 👋 Hi, I'm **Santhosh S**  
 
 🎓 **3rd Year Computer Science Student at Madras Institute of Technology, Anna University**  
-💻 Passionate about **AI, Machine Learning, and Software Development**  
-🚀 Currently working on **Heart Murmur Detection using Deep Learning**  
-📊 Love **Data Science, Problem-Solving, and Full-Stack Development**  
-🔍 Always eager to **learn new technologies & build impactful projects**  
+💻 Passionate about **AI, Machine Learning, Web Development and Software Development**  
+🚀 Looking for **internships and full time opportunities** in Software Development and Web development. 
+📚 Committed to continuous learning and staying updated with industry trends.
+🤝 Passionate about teamwork and leadership, fostering collaboration in projects.
+🏆 Always eager to **learn new technologies & build impactful projects**  
 
 ---
 
