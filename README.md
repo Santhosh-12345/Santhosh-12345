@@ -50,8 +50,6 @@
 
 ---
 
-## 🚀 Projects  
-
 ### 🔬 **Current Project: Heart Murmur Detection from PhonoCardiogram Signals** ❤️🩺  
 - 📊 **Dataset:** Circor Digiscope Phonocardiogram  
 - 🎯 **Goal:** Classify heart murmurs using **MFCC features & Deep Learning**  
@@ -60,21 +58,6 @@
   - 🔹 **PatchTST**  
 - 🏗️ **Meta Model Used:**  
   - 🔹 **XGBoost**  
-
-### 🌐 **Online Job Portal System** 🌍💼  
-- 🖥️ Built a **responsive web platform** for job seekers.  
-- 🔍 Implemented **search filters by location, company, and job role**.  
-- 🔗 **Tech Used:** HTML, CSS, JavaScript, PHP.  
-
-### 📊 **GraphiXcel - Excel Data Visualization Tool** 📈🔍  
-- 🖥️ Developed a **tool to generate interactive charts** from Excel data.  
-- 🔄 Integrated **Python, Django, Matplotlib, and Openpyxl** for seamless data handling.  
-- 📊 Supports **bar charts, line graphs, scatter plots, and more**.  
-
-### ✈️ **Airline Management System** 🛫🎫  
-- 📋 Designed a **Java-based flight booking system** with **MySQL backend**.  
-- 🎫 Features **flight scheduling, ticket booking, and customer management**.  
-- 🔗 **Tech Used:** Java, MySQL, JDBC.  
 
 ---
 
