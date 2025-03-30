@@ -1,16 +1,44 @@
-## Hi there Im Santhosh👋
+# 👋 Hi there, I'm **Santhosh S**  
 
-<!--
-**Santhosh-12345/Santhosh-12345** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Currently Pursuing:**  
+- 🏫 **B.E. Computer Science and Engineering** (2022 - 2026)  
+- 🎯 **Madras Institute of Technology, Anna University**   
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack  
+### 💻 **Languages:**  
+- 🚀 C, C++, Java, HTML, CSS, JavaScript, PHP  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🗄️ **Databases:**  
+- 🏛️ MySQL, Oracle SQL  
+
+### 🔧 **Tools & Technologies:**  
+- 🛠️ Git, GitHub, Word, Excel, PowerPoint  
+
+---
+
+## 🚀 Projects  
+### 📦 **Super Market Database** (MariaDB, Python)  
+- 🏪 Built a **database management system** for supermarkets.  
+- 📊 Tracks **products, customers, transactions, and employees.**  
+
+### 🌐 **Online Job Portal System** (HTML, CSS, JavaScript, PHP)  
+- 💼 Developed a **website for job seekers** with an intuitive UI.  
+- 🔍 Implemented **filters by location, company, and job role.**  
+
+### 📊 **GraphiXcel** (Python, Django, Matplotlib)  
+- 📈 Created a **tool to visualize Excel data** in interactive graphs.  
+- 🔄 Integrated **Python, Matplotlib, and Openpyxl** for seamless data processing.  
+
+### ✈️ **Airline Management System** (Java, MySQL, JDBC)  
+- 🎫 Designed a **flight booking system** with **MySQL & Java.**  
+- 🛫 Features **flight scheduling, ticket booking, and customer management.**  
+
+
+
+## 📫 Contact Me  
+- 📧 **Email:** [santhoshsiva2909@gmail.com](mailto:santhoshsiva2909@gmail.com)  
+- 📱 **Phone:** +91 8939440300  
+- 🔗 **LinkedIn:** [Santhosh S](https://www.linkedin.com/in/santhosh-s-417826263)  
+- 🏆 **GitHub:** [Santhosh-12345](https://github.com/Santhosh-12345)  
+
+
