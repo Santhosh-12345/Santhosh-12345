@@ -17,9 +17,20 @@
 ---
 
 ## 🚀 Projects  
+
+🔬 Current Project: **Heart Murmur Detection from PhonoCardiogram Signals using ensemble learning** ❤️🩺  
+- 📊 **Dataset:** Circor Digiscope Phonocardiogram  
+- 🎯 **Goal:** Classify heart murmurs using **MFCC features & Deep Learning**  
+- 🏗️ **Base Models Used:**  
+  - **Multi-Head Self-Attention Transformer**  
+  - **PatchTST**
+- 🏗️ **Meta Model Used:**  
+  - **XGBoost**
+ 
+
 ### 📦 **Super Market Database** (MariaDB, Python)  
-- 🏪 Built a **database management system** for supermarkets.  
-- 📊 Tracks **products, customers, transactions, and employees.**  
+🏪 Built a **database management system** for supermarkets.  
+📊 Tracks **products, customers, transactions, and employees.**  
 
 ### 🌐 **Online Job Portal System** (HTML, CSS, JavaScript, PHP)  
 - 💼 Developed a **website for job seekers** with an intuitive UI.  
