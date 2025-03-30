@@ -1,8 +1,10 @@
-# 👋 Hi there, I'm **Santhosh S**  
+# 👋 Hi, I'm **Santhosh S**  
 
-🎓 **Currently Pursuing:**  
-- 🏫 **B.E. Computer Science and Engineering** (2022 - 2026)  
-- 🎯 **Madras Institute of Technology, Anna University**  
+🎓 **3rd Year Computer Science Student at Madras Institute of Technology, Anna University**  
+💻 Passionate about **AI, Machine Learning, and Software Development**  
+🚀 Currently working on **Heart Murmur Detection using Deep Learning**  
+📊 Love **Data Science, Problem-Solving, and Full-Stack Development**  
+🔍 Always eager to **learn new technologies & build impactful projects**  
 
 ---
 
@@ -23,12 +25,21 @@
 ![OracleSQL](https://img.shields.io/badge/-Oracle-F80000?style=flat&logo=oracle&logoColor=white)  
 
 ### 🔧 **Tools & Technologies:**  
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)  
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)  
 ![Google Colab](https://img.shields.io/badge/-Google%20Colab-F9AB00?style=flat&logo=google-colab&logoColor=white)  
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)  
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)  
 ![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat&logo=jira&logoColor=white)  
+
+---
+
+## 🌟 Soft Skills  
+✔️ **Problem-Solving & Analytical Thinking** 🧠  
+✔️ **Team Collaboration & Leadership** 🤝  
+✔️ **Effective Communication** 🗣️  
+✔️ **Time Management & Adaptability** ⏳  
+✔️ **Critical Thinking & Creativity** 🎨  
 
 ---
 
@@ -65,6 +76,4 @@
 📱 **Phone:** +91 8939440300  
 🔗 **LinkedIn:** [Santhosh S](https://www.linkedin.com/in/santhosh-s-417826263)  
 🏆 **GitHub:** [Santhosh-12345](https://github.com/Santhosh-12345)  
-
----
 
