@@ -1,11 +1,11 @@
 # 👋 Hi, I'm **Santhosh S**  
 
-🎓 **3rd Year Computer Science Student at Madras Institute of Technology, Anna University**  
-💻 Passionate about **AI, Machine Learning, Web Development, and Software Development**  
-🚀 Looking for **internships and full-time opportunities** in Software Development and Web Development**  
+🎓 **3rd Year Computer Science Student at Madras Institute of Technology, Anna University.**  
+💻 Passionate about **AI, Machine Learning, Web Development, and Software Development.**  
+🚀 Looking for **internships and full-time opportunities** in Software Development and Web Development.
 📚 Committed to continuous learning and staying updated with industry trends.  
 🤝 Passionate about teamwork and leadership, fostering collaboration in projects.  
-🏆 Always eager to **learn new technologies & build impactful projects**  
+🏆 Always eager to **learn new technologies & build impactful projects.**  
 
 ---
 
@@ -80,6 +80,10 @@
 
 ## 📫 Contact Me  
 📧 **Email:** [santhoshsiva2909@gmail.com](mailto:santhoshsiva2909@gmail.com)  
-📱 <a href="tel:+918939440300">+91 8939440300</a>
+
+📱 **Phone:** <a href="tel:+918939440300">+91 8939440300</a>  
+
 🔗 **LinkedIn:** [Santhosh S](https://www.linkedin.com/in/santhosh-s-417826263)  
-🏆 **GitHub:** [Santhosh-12345](https://github.com/Santhosh-12345) 
+
+🏆 **GitHub:** [Santhosh-12345](https://github.com/Santhosh-12345)  
+
