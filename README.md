@@ -79,28 +79,7 @@
 ---
 
 ## 📫 Contact Me  
-<p align="left">
-  <a href="mailto:santhoshsiva2909@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white" height="30"/>
-  </a>
-</p>
-
-<p align="left">
-  <a href="tel:+918939440300">
-    <img src="https://img.shields.io/badge/-Phone-25D366?style=flat&logo=whatsapp&logoColor=white" height="30"/> +91 8939440300
-  </a>
-</p>
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/santhosh-s-417826263" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" height="30"/>
-  </a>
-</p>
-
-<p align="left">
-  <a href="https://github.com/Santhosh-12345" target="_blank">
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white" height="30"/>
-  </a>
-</p>
- 
-
+📧 **Email:** [santhoshsiva2909@gmail.com](mailto:santhoshsiva2909@gmail.com)  
+📱 <a href="tel:+918939440300">+91 8939440300</a>
+🔗 **LinkedIn:** [Santhosh S](https://www.linkedin.com/in/santhosh-s-417826263)  
+🏆 **GitHub:** [Santhosh-12345](https://github.com/Santhosh-12345) 
