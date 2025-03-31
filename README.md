@@ -41,14 +41,6 @@
 
 ---
 
-## 🌟 Soft Skills  
-✔️ **Problem-Solving & Analytical Thinking** 🧠  
-✔️ **Team Collaboration & Leadership** 🤝  
-✔️ **Effective Communication** 🗣️  
-✔️ **Time Management & Adaptability** ⏳  
-✔️ **Critical Thinking & Creativity** 🎨  
-
----
 
 ### 🔬 **Current Project: Heart Murmur Detection from PhonoCardiogram Signals** ❤️🩺  
 - 📊 **Dataset:** Circor Digiscope Phonocardiogram  
