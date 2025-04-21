@@ -47,7 +47,8 @@
 - 🎯 **Goal:** Classify heart murmurs using **MFCC features & Deep Learning**  
 - 🏗️ **Base Models Used:**  
   - 🔹 **Multi-Head Self-Attention Transformer**  
-  - 🔹 **PatchTST**  
+  - 🔹 **PatchTST**
+  -  🔹 **Resnet18**  
 - 🏗️ **Meta Model Used:**  
   - 🔹 **XGBoost**  
 
