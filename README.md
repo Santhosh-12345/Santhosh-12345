@@ -13,14 +13,19 @@
 
 ### 💻 **Languages:**  
 <p align="left">
+  <p align="left">
   <img src="https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white" height="30"/> 
   <img src="https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" height="30"/> 
   <img src="https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white" height="30"/> 
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" height="30"/> 
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white" height="30"/> 
   <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white" height="30"/> 
+  <img src="https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black" height="30"/>
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" height="30"/> 
   <img src="https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white" height="30"/>
+</p>
+
 </p>
 
 ### 🗄️ **Databases:**  
@@ -37,7 +42,11 @@
   <img src="https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white" height="30"/> 
   <img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" height="30"/> 
   <img src="https://img.shields.io/badge/-Jira-0052CC?style=flat&logo=jira&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/-Word-2B579A?style=flat&logo=microsoft-word&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/-Excel-217346?style=flat&logo=microsoft-excel&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/-PowerPoint-B7472A?style=flat&logo=microsoft-powerpoint&logoColor=white" height="30"/>
 </p>
+
 
 ---
 
