@@ -7,14 +7,19 @@
 🤝 Passionate about teamwork and leadership, fostering collaboration in projects.  
 🏆 Always eager to **learn new technologies & build impactful projects.**  
 <p align="center">
-  <a href="https://santhosh-12345.github.io/my-portfolio/" target="_blank" style="text-decoration: none;">
-    <span style="display: inline-block; background-color: #007BFF; color: white; padding: 10px 20px; border-radius: 5px; font-size: 16px; margin: 5px;">🌐 View Portfolio</span>
+  <a href="https://santhosh-12345.github.io/my-portfolio/" target="_blank">
+    <button style="background-color: #007BFF; color: white; padding: 10px 20px; border: none; border-radius: 5px; font-size: 16px; margin: 5px; cursor: pointer;">
+      🌐 View Portfolio
+    </button>
   </a>
 
-  <a href="https://drive.google.com/file/d/1r9sPRgCXLeHAn6wlHIb7M2z8kqCvgcJj/view?usp=drive_link" target="_blank" style="text-decoration: none;">
-    <span style="display: inline-block; background-color: #28A745; color: white; padding: 10px 20px; border-radius: 5px; font-size: 16px; margin: 5px;">📄 View Resume</span>
+  <a href="https://drive.google.com/file/d/1r9sPRgCXLeHAn6wlHIb7M2z8kqCvgcJj/view?usp=drive_link" target="_blank">
+    <button style="background-color: #28A745; color: white; padding: 10px 20px; border: none; border-radius: 5px; font-size: 16px; margin: 5px; cursor: pointer;">
+      📄 View Resume
+    </button>
   </a>
 </p>
+
 
 ---
 
