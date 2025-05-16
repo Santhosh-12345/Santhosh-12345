@@ -8,17 +8,13 @@
 🏆 Always eager to **learn new technologies & build impactful projects.**  
 <p align="center">
   <a href="https://santhosh-12345.github.io/my-portfolio/" target="_blank">
-    <button style="background-color: #007BFF; color: white; padding: 10px 20px; border: none; border-radius: 5px; font-size: 16px; margin: 5px; cursor: pointer;">
-      🌐 View Portfolio
-    </button>
+    <img src="https://img.shields.io/badge/🌐 View Portfolio-007BFF?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-
   <a href="https://drive.google.com/file/d/1r9sPRgCXLeHAn6wlHIb7M2z8kqCvgcJj/view?usp=drive_link" target="_blank">
-    <button style="background-color: #28A745; color: white; padding: 10px 20px; border: none; border-radius: 5px; font-size: 16px; margin: 5px; cursor: pointer;">
-      📄 View Resume
-    </button>
+    <img src="https://img.shields.io/badge/📄 View Resume-28A745?style=for-the-badge&logo=google-drive&logoColor=white" />
   </a>
 </p>
+
 
 
 ---
