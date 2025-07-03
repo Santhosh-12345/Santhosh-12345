@@ -1,4 +1,4 @@
-# 👋 Hi, I'm **Santhosh S**  
+# Hi, I'm **Santhosh S**  
 
 🎓 **Final Year Computer Science Student at Madras Institute of Technology, Anna University.**  
 💻 Passionate about **AI, Machine Learning, Web Development, and Software Development.**  
