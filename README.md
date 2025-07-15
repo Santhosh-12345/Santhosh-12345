@@ -61,16 +61,16 @@
 
 ---
 
+<!-- GitHub Stats -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Santhosh-12345&show_icons=true&theme=tokyonight" alt="Santhosh's GitHub stats" />
+</p>
 
-### 🔬 **Current Project: Heart Murmur Detection from PhonoCardiogram Signals** ❤️🩺  
-- 📊 **Dataset:** Circor Digiscope Phonocardiogram  
-- 🎯 **Goal:** Classify heart murmurs using **MFCC features & Deep Learning**  
-- 🏗️ **Base Models Used:**  
-  - 🔹 **Multi-Head Self-Attention Transformer**  
-  - 🔹 **PatchTST**
-  -  🔹 **Resnet18**  
-- 🏗️ **Meta Model Used:**  
-  - 🔹 **XGBoost**  
+<!-- Most Used Languages -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Santhosh-12345&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
 
 ---
 
