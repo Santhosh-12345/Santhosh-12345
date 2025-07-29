@@ -61,15 +61,6 @@
 
 ---
 
-<!-- GitHub Stats -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Santhosh-12345&show_icons=true&theme=tokyonight" alt="Santhosh's GitHub stats" />
-</p>
-
-<!-- Most Used Languages -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Santhosh-12345&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
 
 
 ---
