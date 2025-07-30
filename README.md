@@ -7,9 +7,8 @@
 🤝 Passionate about teamwork and leadership, fostering collaboration in projects.  
 🏆 Always eager to **learn new technologies & build impactful projects.**  
 <p align="center">
-<!--   <a href="https://santhosh-12345.github.io/my-portfolio/">
-    <img src="https://img.shields.io/badge/%20View%20Portfolio-007BFF?style=for-the-badge&logo=github&logoColor=white" />
-  </a> -->
+
+    
   <a href="https://drive.google.com/file/d/1r9sPRgCXLeHAn6wlHIb7M2z8kqCvgcJj/view">
     <img src="https://img.shields.io/badge/%20View%20Resume-28A745?style=for-the-badge&logo=google-drive&logoColor=white" />
   </a>
